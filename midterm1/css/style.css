@@ -1,0 +1,73 @@
+
+.r-navbar{
+    width: 100%;
+    min-height: 80px;
+    
+    float: left;
+}
+.logo{
+    width: 20%;
+    min-height: 80px;
+   
+    float: left;
+}
+.logo img{
+    margin: 15px 0 0 15px;
+}
+.menu{
+    width: 70%;
+    min-height: 80px;
+    
+    float: left;
+}
+.menu ul{
+    list-style-type: none;
+    font-size: 18px;
+   padding: 0 0 0 60px;
+   
+}
+.menu ul li{
+    float: left;
+    color:black;
+    padding: 50px 20px 0 40px;
+    border-bottom: 3px solid grey;
+
+}
+.info{
+    width: 10%;
+    min-height: 80px;
+    background: blue;
+    float: right;
+    
+}
+.info p {
+    color: white;
+   padding: 15px 0 0 15px;
+   font-size: 15px;
+
+    
+}
+.main{
+    width: 1000px;
+    height: 300px;
+    float: left;
+    margin: 50px 0 0 0;
+    position: relative;
+
+}
+.img{
+    position: absolute;
+    left: 400px;
+    top: 200px;
+
+
+}
+   
+    
+
+    
+
+
+
+
+
